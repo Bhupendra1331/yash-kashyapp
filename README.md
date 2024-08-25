@@ -45,9 +45,9 @@ FullStack Developer with 2+ years of experience in developing robust and scalabl
 - **RabbitMQ**: Designed an event-driven microservices architecture with RabbitMQ as the message broker.
   - Efficiently handled asynchronous task distribution across different services to ensure better performance and reliability.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-k2001&show_icons=true&locale=en&layout=compact" alt="yash-k2001" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-kashyapp&show_icons=true&locale=en&layout=compact" alt="yash-k2001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-k2001&show_icons=true&locale=en" alt="yash-k2001" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-kashyapp&show_icons=true&locale=en" alt="yash-k2001" /></p>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
