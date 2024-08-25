@@ -1,5 +1,4 @@
 <a href="/yash-k2001">
-<!--   yash-k2001 / README.md   -->
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
