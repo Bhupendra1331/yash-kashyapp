@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+a+Yash+Kashyap;I'm+from+Ghaziabad,+India;I'm+a+Full+Stack+Developer;Be+Welcome!+ツ)
 
-- 🔭 I’m currently working as a **Node.js and Angular Developer**
+- 🔭 I’m currently working as a **Node.jss and Angular Developer**
 - 🌱 I’m expanding my knowledge in **Full Stack Developer**.
 - 📫 Drop me a mail on **- yashkashyap1205@gmail.com**
 
